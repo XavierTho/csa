@@ -4,6 +4,15 @@ title: Trimester One Final Review
 permalink: /trimester-one/final-review
 ---
 
+<style>
+img {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 350px;
+}
+</style>
+
 ## The Three Sprints
 
 ### First Sprint: Tools and Onboarding Adventure
@@ -15,9 +24,13 @@ The second sprint was mainly centered around making a lesson regarding the AP CS
 
 In terms in shaping our understanding of collaborating with each other, it was certainly the most pivotal sprint.
 
+<img src="{{site.baseurl}}/images/trimester-one-final-review/scanner-exercise.png">
+
 ### Third Sprint: Frontend Module
 
 The last was a culmination of both what we learned regarding teamwork and likewise applying our technical knowledge onto making a comprehensive frontend module to present at Night of the Museum. It went, more so than the sprints before, relatively smoothly.
+
+<img src="{{site.baseurl}}/images/trimester-one-final-review/frontend-module-menu.png">
 
 ## N@tM
 
@@ -26,6 +39,8 @@ By the time it was CSA's time slot, the crowd had thinned quite a bit than its p
 
 ### Other Presentations
 What caught my attention and the attention it seems of many others was the CSSE project. It had smooth transitions from project to project and the presentation seemed organized and thoroughly planned beforehand. As someone who has done CSSE, seeing what they did made me extremely curious about how they were able to pull all the technical details they had done.
+
+<img src="{{site.baseurl}}/images/trimester-one-final-review/csse-showcase.jpg">
 
 ## MCQ Review
 I'll preface by saying, I was surprised by this MCQ in a manner that no MCQ that I had done in CSP had done. There was a particular conceptual topic that I'll get into that "knocked me off my axis."
@@ -87,6 +102,8 @@ A possible future project that I'm eyeing is working on the Game Engine and Game
 I've also been working on minor projects. A example that comes to mind was an addition of the README regarding Jupyter Kernels. It seemed to be of some priority to be added, so I added to the README a JavaScript jupyter kernel called tslab for future use.
 
 Little things like that have certainly been a highlight this trimester.
+
+<img src="{{site.baseurl}}/images/trimester-one-final-review/tslab-showcase.png">
 
 ## Overview
 Through this assessment and review, I have come to the conclusion that this trimester, despite the trials and tribulations that did arise was effective and much was learned throughout it. I learned how to work in the new team I was in that possessed a dynamic that I yet to have in my other teams; I learned how to code various in Java, a language I had no prior experience; and I had learned to properly manage projects that had limited time frames. So it was certainly effective and much has been learned moving into the next trimester.
