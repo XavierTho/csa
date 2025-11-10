@@ -16,7 +16,7 @@ img {
 ## The Three Sprints
 
 ### First Sprint: Tools and Onboarding Adventure
-The first sprint regarding tools was relatively straightforward. Considering I had done both CSSE and CSP before this class, I already had all the tools downloaded that would be used for CSA. Even so, I made a blog regarding tool setup that I made as an exercise and perhaps as a guide for future students.
+The first sprint regarding tools was relatively straightforward. Considering I had done both CSSE and CSP before this class, I already had all the tools downloaded that would be used for CSA.
 
 
 ### Second Sprint: CSA Lessons
