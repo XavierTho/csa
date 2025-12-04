@@ -6,7 +6,7 @@ permalink: /oop-module/
 
 <h3 style="text-align: center;">Introduction</h3>
 
-Object Oriented Programming (OOP) is a way of using objects (a unique data type which we'll cover) in programming to effectively organize and sectionalize code to be simple and efficient. It would be recommended, before starting this module, to have a basic understanding of fundamental programming concepts and JavaScript syntax such as variables, functions, etc. before continuing.
+Object Oriented Programming (OOP) is a way of using objects (a unique topic which we'll cover) in programming to effectively organize and sectionalize code to be simple and efficient. It would be recommended, before starting this module, to have a basic understanding of fundamental programming concepts and JavaScript syntax such as variables, functions, etc. before continuing.
 
 <style>
     .container {
